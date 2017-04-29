@@ -1,0 +1,559 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padding-",
+				"padding-top"
+			],
+			[
+				"padding",
+				"padding-top"
+			],
+			[
+				"child",
+				"child"
+			],
+			[
+				"for",
+				"forEach"
+			],
+			[
+				"boo",
+				"boomdarGames"
+			],
+			[
+				"player",
+				"playerName"
+			],
+			[
+				"Cli",
+				"CLIFF5"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/apple/Documents/woodenaz-web-project"
+	],
+	"file_history":
+	[
+		"/Users/apple/Public/travel-blog/index.html",
+		"/Users/apple/Public/index.html",
+		"/Users/apple/Downloads/startbootstrap-sb-admin-2-gh-pages/pages/tables.html",
+		"/Users/apple/Downloads/startbootstrap-sb-admin-gh-pages/index.html",
+		"/Users/apple/Downloads/startbootstrap-sb-admin-2-gh-pages/dist/js/sb-admin-2.js",
+		"/Users/apple/Downloads/startbootstrap-sb-admin-2-gh-pages/index.html",
+		"/Users/apple/Google Drive/KCL/sem2/7CCSMML1 Machine Learning/coursework/coursework 2/code/reinforcement/myLearningAgents.py",
+		"/Users/apple/Google Drive/KCL/sem2/7CCSMML1 Machine Learning/coursework/coursework 2/code/reinforcement/mlLearningAgents.py",
+		"/Users/apple/Desktop/fox.php",
+		"/Users/apple/Google Drive/KCL/sem2/7CCSMDM1 Data Mining/assignment/assignment 2/data/employee_tenure.csv",
+		"/usr/local/bin/python",
+		"/Users/apple/Google Drive/KCL/sem2/7CCSMDM1 Data Mining/assignment/assignment 2/sd-clean.py",
+		"/Users/apple/Downloads/startbootstrap-landing-page-gh-pages/index.html",
+		"/Users/apple/Downloads/startbootstrap-creative-4-dev/index.html",
+		"/Users/apple/Google Drive/KCL/Project/code/data/dataset_ubicomp2013_checkins.csv",
+		"/Users/apple/Desktop/nicov elim civ ban.html",
+		"/Users/apple/Desktop/viper elim civ ban",
+		"/Users/apple/Desktop/tatoh civ ban.html",
+		"/Users/apple/Desktop/time elim civ ban.html",
+		"/Users/apple/Desktop/liereyy civ ban.html",
+		"/Users/apple/Desktop/slam elim civ ban.html",
+		"/Users/apple/Desktop/daut elim civ ban.html",
+		"/Users/apple/Desktop/bact elim civ ban",
+		"/Users/apple/Google Drive/KCL/Project/code/data/dataset_TSMC2014_TKY.csv",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Rise of Rajas File Format G2",
+		"/Users/apple/Desktop/slam civ ban.html",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/STANDARD MAP ARABIA STANDARD RES LMS VIC TURBO RANDOM FAST ORIGINAL ONLY",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/6284f98d-6559-4c61-8401-8a2299f0b1db.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/RotK Grand Final G5",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Rise of Rajas File Format G3",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Rise of Rajas File Format",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/DAIPER VS NICOVTATOH G5 TEAM ISLAND",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/DAIPER VS NICOVTATOH G4 NOMAD",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM Qualifiers Semi Final Slam vs Tim raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Qualifiers 3rd place TaToH vs Tim raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Qualifiers Final Slam vs Bact raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 R1 TheViper vs Tim raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 R1 BacT vs degao raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 R1 Nicov vs Slam raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 LR1 dogao vs TaToH raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 LR1 Nicov vs Tim raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 R2 TheViper vs Slam raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 R2 DauT vs BacT raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 LR2 Nicov vs BacT raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 LR2 TheViper vs dogao raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 R1 DauT vs TaToH raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Grand Final DauT vs TheViper g2 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Grand Final DauT vs TheViper g3 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Winners Final DauT vs Slam g1 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 LR3 TheViper vs Nicov g3 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 LR3 TheViper vs Nicov g2 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 LR3 TheViper vs Nicov g1 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Winners Final DauT vs Slam g2 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Losers Final Slam vs TheViper g1 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Losers Final Slam vs TheViper g2 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Grand Final DauT vs TheViper g1 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/RotK Grand Final G1 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/EGM1 Grand Final DauT vs TheViper g4 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/json/raw/RotK Grand Final G2 raw json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/untitled.json",
+		"/Users/apple/Downloads/aoe-analyst-Terrain-export.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Tiles/7c5a9199-93fd-42ca-adf4-8a76ccac4778.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/SUDDEN DEATH ENDING IMPERIAL LAST MAN STANDING",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/GameAnalyser/Classes/Analyser.cs",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Unit.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Map.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Game Type.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Game Mode.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Speed.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Difficulty.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Age.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Victory.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Resource Level.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Research.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/Colour.json",
+		"/Volumes/Apricot/Xamarin Projects/GameAnalyser/AOC File Format",
+		"/Users/apple/Downloads/scoreflags/src/ScoreBoard.as",
+		"/Users/apple/Downloads/scoreflags/css/stylesheet.css",
+		"/Users/apple/Downloads/iris.dot",
+		"/Volumes/Apricot/XCode Projects/Vote/Podfile",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/Models/GameInfo.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/Models/VictorySettings.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/Models/GameSettings.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/Analysers/Analyser.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/Models/Team.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/RecordedGame.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/Models/GameUnit.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Downloads/recanalyst-master/recanalyst-master/src/Analyzers/VictorySettingsAnalyzer.php",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Downloads/recanalyst-master/recanalyst-master/src/Analyzers/PostgameDataAnalyzer.php",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Downloads/recanalyst-master/recanalyst-master/src/Analyzers/Analyzer.php",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Downloads/recanalyst-master/recanalyst-master/src/Analyzers/BodyAnalyzer.php",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Downloads/recanalyst-master/recanalyst-master/src/Analyzers/HeaderAnalyzer.php",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/ResourcesPacks/aoe/AgeOfEmpires.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/ResourcesPacks/aoe/Colours.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/ResourcesPacks/aoe/Map.cs",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Downloads/recanalyst-master/recanalyst-master/src/Analyzers/PlayerObjectsListAnalyzer.php",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Downloads/recanalyst-master/recanalyst-master/src/Analyzers/PlayerInfoBlockAnalyzer.php",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Downloads/recanalyst-master/recanalyst-master/references.md",
+		"/Volumes/BOOTCAMP/Users/Chan Lo Yuet/Desktop/AoehdAnalyst/AoehdAnalyst/classes/ResourcesPacks/aoe/Unit.cs"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"fa-shopping-cart",
+			"fa",
+			"01-00-67-00",
+			"01-00-65-00",
+			"01-00-67-00",
+			"02-00-67-00",
+			"02-00-66-00",
+			"02-00-65-00",
+			"02-00-66-00",
+			"02-00-67-00",
+			"01-00-67-00",
+			"01-00-66-00",
+			"01-00-65-00",
+			"01-00-66-00",
+			"01-00-67-00",
+			"02-00-67-00",
+			"02-00-66-00",
+			"02-00-65-00",
+			"02-00-66-00",
+			"01-00-65-00",
+			"02-00-66-00",
+			"02-00-65-00",
+			"02-00-66-00",
+			"02-00-65-00",
+			"01-00-65-00",
+			"01-00-66-00",
+			"01-00-67-00",
+			"02-00-67-00",
+			"02-00-66-00",
+			"02-00-65-00",
+			"01-00-66-00",
+			"01-00-65-00",
+			"01-00-66-00",
+			"01-00-66",
+			"02-00-65",
+			"02-00-66",
+			"02-00-67",
+			"01-00-66",
+			"01-00-65",
+			"0B",
+			"01-00-67",
+			"02-00-66",
+			"01-00-66",
+			"02-00-66",
+			"02-00-65",
+			"01-00-65",
+			"02-00-67",
+			"01-00-67",
+			"01-00-66",
+			"02-00-66",
+			"02-00-65",
+			"01-00-65",
+			"01-65",
+			"0B",
+			"04",
+			"byz",
+			"khmer",
+			"goth",
+			"koreans",
+			"italia",
+			"goth",
+			"korean",
+			"italia",
+			"goth",
+			"burmese",
+			"persians",
+			"byz",
+			"ital",
+			"italia",
+			"koreans",
+			"mala",
+			"spanish",
+			"khmer",
+			"sara",
+			"teuto",
+			"persi",
+			"incas",
+			"color: red; font-weight: bold; text-decoration: line-through;",
+			"incas",
+			"teut",
+			"chinese",
+			"malians",
+			"indian",
+			"mayan",
+			"PREVIOUS",
+			"itali",
+			"italian",
+			"150px",
+			"incas",
+			"celts",
+			"pcik",
+			"az",
+			"azte",
+			"ethio",
+			"huns",
+			"ethio",
+			"huns",
+			"indian",
+			"mayans",
+			"berbers",
+			"azt",
+			"celts",
+			"burme",
+			"azte",
+			"berbers",
+			"celts",
+			"40%",
+			"0.4",
+			"ethio",
+			"huns",
+			"<div style=\"width: 120px; display:block; float: left;",
+			"top: 0px; left: 0px; height: 80px; width: 80px; font-size: 2em; ",
+			" style=\"display: block; width: 80px; height: 80px; opacity: 0.4; filter: opacity(40%) position: absolute;\">",
+			"<div style=\"width: 120px; display:block; float: left; text-align: center;\">",
+			"height: 80px; width: 80px; font-size: 2em; ",
+			"); background-position: center center; background-repeat: no-repeat; height: 80px; width: 80px; display: block; width: 100%; font-size: 2em; text-align: center; line-height: 80px;\"></p>",
+			"); background-position: center center; background-repeat: no-repeat; height: 80px; width: 80px; display: block; width: 100%; font-size: 2em; text-align: center; line-height: 80px; opacity: 0.4; filter: opacity(40%); font-weight: bold;\">1</p>",
+			"<p style=\"z-index: 100; color: white; top: 30px; left: 30px; background-image: url(",
+			">1</p>",
+			"-1E-00",
+			"-3C-00",
+			"-3C-01",
+			"-60-01",
+			"-01-00-67",
+			"-02-00-66",
+			"-02-00-67",
+			"-01-00-67",
+			"-02-00-66"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"CURRENT",
+			"130px",
+			"PICK",
+			"100%",
+			"1.0",
+			"<div style=\"width: 120px; height: 150px; display:block; float: left;",
+			"top: 0px; left: 0px; height: 80px; width: 100%; font-size: 2em; ",
+			" style=\"display: block; width: 80px; height: 80px; opacity: 0.4; filter: opacity(40%); margin-left: 20px;\">",
+			"<div style=\"width: 120px; display:block; float: left; text-align: center; position: relative;\">",
+			"top: 0px; left: 0px; height: 80px; width: 80px; font-size: 2em; ",
+			"\" style=\"display: block; width: 80px; height: 80px; opacity: 0.4; filter: opacity(40%) position: absolute;\">\n<p style=\"z-index: 100; color: green; height: 80px; width: 80px; font-size: 2em; text-align: center; line-height: 80px; font-weight: bold; position: absolute; text-align: center;\"></p>",
+			"\" style=\"display: block; width: 80px; height: 80px; opacity: 0.4; filter: opacity(40%) position: absolute;\">",
+			"<img src=\"",
+			"></p>",
+			"tournamentList",
+			" _DauT_\"",
+			"\"_DauT_ ",
+			" _DauT_ ",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"F1Re vs Tim\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 3\",\n    \"name\" : \"TheViper vs Nicov\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"TheViper vs TaToH\",\n    \"game\" : 1,",
+			"    \"round\" : \"3rd Place\",\n    \"name\" : \"TaToH vs Tim\",\n    \"game\" : 1,",
+			"    \"round\" : \"3rd Place\",\n    \"name\" : \"TaToH vs Liereyy\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 2\",\n    \"name\" : \"TheViper vs dogao\",\n    \"game\" : 1,",
+			"    \"round\" : \"Semi Finals\",\n    \"name\" : \"Slam vs Tim\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"TaToH vs Vinchester\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 2\",\n    \"name\" : \"BacT vs Spaden\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 2\",\n    \"name\" : \"DauT vs BacT\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 2\",\n    \"name\" : \"Liereyy vs TheViper\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"DauT vs Liereyy\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 2\",\n    \"name\" : \"Nicov vs BacT\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 1\",\n    \"name\" : \"_DauT_ vs Slam\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"Slam vs Melkor\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"Liereyy vs BuLLeT\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 2\",\n    \"name\" : \"Nicov vs TaToH\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"BacT vs MbL\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 2\",\n    \"name\" : \"Liereyy vs BacT\",\n    \"game\" : 1,",
+			"    \"round\" : \"Finals\",\n    \"name\" : \"BacT vs Tim\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"dogao vs BacT\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"St4rk vs Riverplation\",\n    \"game\" : 1,",
+			"    \"round\" : \"Finals\",\n    \"name\" : \"Slam vs BacT\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 2\",\n    \"name\" : \"TaToH vs DauT\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 1\",\n    \"name\" : \"TheViper vs Tim\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"TheViper vs Tim\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 2\",\n    \"name\" : \"TaToH vs MbL\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 2\",\n    \"name\" : \"St4rk vs Tim\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"DauT vs TaToH\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 1\",\n    \"name\" : \"dogao vs TaToH\",\n    \"game\" : 1,",
+			"    \"round\" : \"Semi Finals\",\n    \"name\" : \"BacT vs Liereyy\",\n    \"game\" : 1,",
+			"    \"round\" : \"Semi Finals\",\n    \"name\" : \"TaToH vs Bact\",\n    \"game\" : 1,",
+			"    \"round\" : \"Semi Finals\",\n    \"name\" : \"Tim vs TaToH\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"Nicov vs Slam\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"mentalist vs Spaden\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 2\",\n    \"name\" : \"Miguel vs Liereyy\",\n    \"game\" : 1,",
+			"    \"round\" : \"Round 1\",\n    \"name\" : \"Miguel vs stefanHD\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 1\",\n    \"name\" : \"Tim vs Nicov\",\n    \"game\" : 1,",
+			"    \"round\" : \"Losers Round 2\",\n    \"name\" : \"",
+			"    \"stage\" : \"Main Event\",\n    \"name\" : \"",
+			"    \"round\" : \"Semi Finals\",\n    \"name\" : \"",
+			"    \"round\" : \"Losers Round 4\",\n    \"name\" : \"",
+			"    \"round\" : \"3rd Place\",\n    \"name\" : \"",
+			"    \"round\" : \"Finals\",\n    \"name\" : \"",
+			"\"stage\" : \"Main Event\",\n    \"round\" : \"Round 1\",",
+			"\",\n",
+			"\",",
+			"\"",
+			"\n\"",
+			"",
+			"-00-00-00-00-00-00-00-00-00-00-00-00\n-FF-FF-00-00-00-00-00-00-00-00-00-00-00-00",
+			"-03-00-00-00-00-00-00-00-00-00-00-00-00-00\n-03-00-00-00-00-00-00-00-00-00-00-00-00-00",
+			"-00-00-00-00-00-00-00-00-00-00-00-00-00\n-03-00-00-00-00-00-00-00-00-00-00-00-00-00",
+			"-00-00-00-00-00-00-00-00-00-00-00-00-00-03-00-00-00-00-00-00-00-00-00-00-00-00-00\n-03-00-00-00-00-00-00-00-00-00-00-00-00-00",
+			"\n-1C",
+			"-00\n-01-00-00-00-",
+			"00\n-01-00-00-00-07",
+			"-00\n-01-00-00-00-07",
+			"-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-7",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-6",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-5",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-4",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-3",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-2",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-1",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-0",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-8",
+			"-02-00-00-00\n-01-00-00-00",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-F",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-E",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-D",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-C",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-B",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-A",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-9",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-8",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-7",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-6",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-5",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-4",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-3",
+			"-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-00-00-2",
+			"-00-00\n-02-00-00-00-3",
+			"-00-00\n-02-00-00-00-2",
+			"-00-00\n-02-00-00-00-1",
+			"-00-00\n-02-00-00-00-87-00-00-00",
+			"-00-00\n-02-00-00-00-",
+			"-00-00\n-01-00-00-00",
+			"-00-00\n-02-00-00-00",
+			"-02-00-00-00\n-01-00-00-00",
+			"-02-00-00-00\n-01-00-00-00-18-00-00-00",
+			"-00\n-02-00-00-00-4B-00-00-00-03-00-00-00",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-F",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-E",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-D",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-C",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-B",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-A",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-9",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-8",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-0",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-1",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-2",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-3",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-4",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-5",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-6",
+			"-02-00-00-00\n-02-00-00-00-5A-00-00-00-03-00-00-00-7"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "woodenaz.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
